@@ -38,6 +38,11 @@ index.html: The main home page of the Amazon clone with product listings.
 
 styles.css: The main CSS file that handles the overall styling of the website.
 
+**LiveLink**
+
+https://vinaya563.github.io/AMAZON-CLONE/
+
+
 **Screenshots**
 
 
